@@ -1,0 +1,25 @@
+{
+  "name": "r4-node-closure",
+  "version": "0.1.0",
+  "description": "Enables you to run google closure library projects in node.ks",
+  "main": "lib/runtime.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eredo/r4-node-closure.git"
+  },
+  "keywords": [
+    "google",
+    "closure",
+    "library",
+    "closure",
+    "google"
+  ],
+  "author": "Eric Schneller",
+  "license": "MIT"
+}
